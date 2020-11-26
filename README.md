@@ -1,6 +1,8 @@
+# 짱구게임 release!
+
 ![1](https://user-images.githubusercontent.com/70987287/100384825-6b4cf300-3064-11eb-85d4-d5c95cf706d4.png)
 
-# 짱구게임 release!
+20172740 최예슬
 게임 소개 영상 https://www.youtube.com/watch?v=TmYJrrHlfxo
 
 
