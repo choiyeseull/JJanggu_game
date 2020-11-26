@@ -23,9 +23,14 @@
 
 ![5](https://user-images.githubusercontent.com/70987287/100384831-6e47e380-3064-11eb-92d4-7d967736691e.png)
 
+# Mini Game 3.
 
-![6](https://user-images.githubusercontent.com/70987287/100384832-6e47e380-3064-11eb-92ff-ccb3001674be.png)
 ![7](https://user-images.githubusercontent.com/70987287/100384835-6ee07a00-3064-11eb-9a12-1cff67da5b49.png)
+
+# Mini Game 4.
+
 ![8](https://user-images.githubusercontent.com/70987287/100384836-6f791080-3064-11eb-8751-4c1e53063d96.png)
+
+
 ![9](https://user-images.githubusercontent.com/70987287/100384839-7011a700-3064-11eb-8625-e125d066d5f0.png)
 ![10](https://user-images.githubusercontent.com/70987287/100384841-7011a700-3064-11eb-8800-7ed6a3b5ee04.png)
