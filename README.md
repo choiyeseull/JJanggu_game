@@ -26,7 +26,7 @@
 
 ![3](https://user-images.githubusercontent.com/70987287/100384829-6d16b680-3064-11eb-8dad-8bef6420c7cb.png)
 
-키패드 (위, 아래, 왼쪽, 오른쪽)을 누르면 짱구가 이동해요.
+키패드 (왼쪽, 오른쪽)을 누르면 짱구가 이동해요.
 
 
 # Mini Game 1. 벌레 잡기
